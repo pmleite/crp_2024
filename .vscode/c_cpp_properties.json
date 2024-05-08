@@ -18,6 +18,8 @@
             "includePath": [
                 "/home/pmleite/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
                 "/home/pmleite/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard",
+                "/home/pmleite/Arduino/libraries/Ultrasonic/src",
+                "/home/pmleite/Arduino/libraries/Servo/src",
                 "/home/pmleite/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/BnrOneA",
                 "/home/pmleite/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/SPI/src",
                 "/home/pmleite/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries/EEPROM/src",
